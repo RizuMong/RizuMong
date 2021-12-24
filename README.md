@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RizuMong
-- 👀 I’m interested in Front-End Developer
+- 👀 I’m interested in UI Design
 - 🌱 I’m currently learning Vue JS
 - 📫 rizkihaddiprayoga@gmail.com
 
